@@ -100,6 +100,7 @@ h3 {
   line-height: 2;
 }
 .btn {
+  margin:auto;
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4,  #11999e);
   background-image: -moz-linear-gradient(top, #11cdd4,  #11999e);
